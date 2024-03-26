@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/goScanner.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\2024\I Semestre\tests\GoExample" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Go" />
+          <option name="generateListener" value="false" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/goParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\2024\I Semestre\tests\GoExample" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Go" />
+          <option name="generateListener" value="false" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+</project>
